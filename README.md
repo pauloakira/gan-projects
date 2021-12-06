@@ -1,1 +1,1 @@
-# gan-fashion-mnist
+# GENERATIVE ADVERSARIAL NETWORKS (GAN) PROJECTS 
